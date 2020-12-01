@@ -3,10 +3,18 @@ body
     color: #333;
     text-align: center;
     font-family: "Arial";
-    font-size: 10px;
+    font-size: 20px;
     margin: 0;
     paddind: 0;
 }
+#cabecera
+{
+    background: #4444cc;
+    color: white;
+    margin: 0;
+    padding: 0.5cm;
+}
+
 #conteiner 
 {
     width: 70%;
@@ -18,5 +26,5 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 40px;
 }
